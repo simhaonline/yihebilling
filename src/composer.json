@@ -1,0 +1,12 @@
+{
+    "name": "leoz/yihebilling",
+    "description": "billing system for yihe-inc company",
+    "authors": [
+        {
+            "name": "Leo",
+            "email": "zhangliang@yihe-inc.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
